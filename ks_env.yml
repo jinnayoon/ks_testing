@@ -1,0 +1,19 @@
+name: ks_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - scipy
+  - netcdf4
+  - scikit-learn
+  - jupyter
+  - xarray
+  - cartopy
+  - seaborn
+  - sympy
+  - pandas
+  - numpy
+  - statsmodels
+  - zarr
+  - gcsfs
