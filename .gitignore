@@ -1,3 +1,3 @@
-# Ignore all data csv files
+# Ignore all files and subfolders inside data folder
 
-ks_testing/data/
+data/** 
